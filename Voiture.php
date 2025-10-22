@@ -38,3 +38,5 @@ class Voiture {
              " avance à une vitesse de " . $this->vitesse . " km/h." . PHP_EOL; // Vitesse actuelle de la voiture
     }
 }
+
+?>
